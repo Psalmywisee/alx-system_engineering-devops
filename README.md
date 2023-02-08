@@ -1,1 +1,1 @@
-Script to print out
+Script print out
