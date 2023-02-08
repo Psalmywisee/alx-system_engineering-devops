@@ -1,1 +1,1 @@
-Script print out
+what am I?
