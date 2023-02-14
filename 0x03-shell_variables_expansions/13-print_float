@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%.2f \n" $MYNUMi
+printf "%.2f \n" $MYNUM | sort
